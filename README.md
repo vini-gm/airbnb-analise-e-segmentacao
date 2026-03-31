@@ -66,7 +66,7 @@ Para garantir o rigor técnico do modelo de Machine Learning, as seguintes abord
 * **Redução de Dimensionalidade (`PCA`):** Principal Component Analysis aplicado para projetar as variáveis em 2D, permitindo a validação visual da separação dos clusters criados.
 
 *(Gráfico do Cotovelo)*
-> ![Gráfico do Cotovelo](https://github.com/vini-gm/airbnb-analise-e-segmentacao/blob/main/imagens/clusters_finais.png)
+> ![Gráfico do Cotovelo](https://github.com/vini-gm/airbnb-analise-e-segmentacao/blob/main/imagens/metodo_cotovelo.png)
 
 ---
 
