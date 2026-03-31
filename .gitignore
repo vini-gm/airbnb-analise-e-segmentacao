@@ -1,0 +1,15 @@
+# Configurações do PyCharm
+.idea/
+
+# Arquivos temporários do Jupyter Notebook
+.ipynb_checkpoints/
+
+# Cache do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ambientes Virtuais (se você criou algum)
+venv/
+env/
+.env
