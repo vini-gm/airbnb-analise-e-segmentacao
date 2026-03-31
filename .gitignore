@@ -9,7 +9,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# Ambientes Virtuais (se você criou algum)
+# Ambientes Virtuais
 venv/
 env/
 .env
