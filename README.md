@@ -66,22 +66,17 @@ Para garantir o rigor técnico do modelo de Machine Learning, as seguintes abord
 * **Redução de Dimensionalidade (`PCA`):** Principal Component Analysis aplicado para projetar as variáveis em 2D, permitindo a validação visual da separação dos clusters criados.
 
 *(Gráfico do Cotovelo)*
-> `![Gráfico do Cotovelo](imagens/metodo_cotovelo.png)`
-
----
-
-*(Mapa de Calor do Plotly)*
-> `![Mapa de Calor]()`
+> `![Gráfico do Cotovelo]([imagens/metodo_cotovelo.png](https://github.com/vini-gm/airbnb-analise-e-segmentacao/blob/main/imagens/clusters_finais.png))`
 
 ---
 
 *(Top 10 bairros com melhor custo-benefício)*
-> `![Top 10 bairros](imagens/top10_bairros.png)`
+> `![Top 10 bairros]([imagens/top10_bairros.png](https://github.com/vini-gm/airbnb-analise-e-segmentacao/blob/main/imagens/top10_bairros.png))`
 
 ---
 
 *(Clusters Finais)*
-> `![Clusters finais](imagens/clusters_finais.png)`
+> `![Clusters finais]([imagens/clusters_finais.png](https://github.com/vini-gm/airbnb-analise-e-segmentacao/blob/main/imagens/clusters_finais.png))`
 
 ---
 
